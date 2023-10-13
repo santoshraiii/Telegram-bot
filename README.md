@@ -8,6 +8,7 @@ Access to a wide range of global currencies for conversion.
 Automatic updates of currency exchange rates to ensure accuracy.
 Light-hearted joke suggestions upon user request for added amusement.
 
+
 Installation
 To get started with the Currency Converter and Joke Suggester Bot, follow these simple steps:
 
@@ -16,11 +17,13 @@ Install the necessary dependencies.
 Set up the required API keys for currency conversion.
 Run the bot on your preferred platform.
 Usage
+
 Here's how you can use the Currency Converter and Joke Suggester Bot:
 
 Use the /convert command followed by the currencies and amounts to perform currency conversion.
 Type /joke to receive a humorous joke suggestion from the bot.
-Technologies Used
+
+TECHNOLOGIES USED
 Python
 Telegram API
 Currency exchange rate API
