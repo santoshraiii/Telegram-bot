@@ -9,6 +9,8 @@ Description
 * Automatic updates of currency exchange rates to ensure accuracy.
 * Light-hearted joke suggestions upon user request for added amusement.
 
+![image](https://github.com/santoshraiii/Telegram-bot/assets/128511075/a5b4beb6-1844-4050-bd7c-c8f499a09fdc)
+
 
 * Installation
 * To get started with the Currency Converter and Joke Suggester Bot, follow these simple steps:
@@ -19,15 +21,19 @@ Description
 * Run the bot on your preferred platform.
   Usage
 
-Here's how you can use the Currency Converter and Joke Suggester Bot:
+* Here's how you can use the Currency Converter and Joke Suggester Bot:
 
-Use the /convert command followed by the currencies and amounts to perform currency conversion.
-Type /joke to receive a humorous joke suggestion from the bot.
+* Use the /convert command followed by the currencies and amounts to perform currency conversion.
+* Type /joke to receive a humorous joke suggestion from the bot.
 
-Technologies Used 
-Python
-Telegram API
-Currency exchange rate API
+1 Technologies Used 
+2 Python
+3 Telegram API
+4 Currency exchange rate API
+
+![Screenshot 2023-10-13 155935](https://github.com/santoshraiii/Telegram-bot/assets/128511075/ec0a82ec-c3d8-4499-b752-bb942c58efc6)
+
+
 
 
 
